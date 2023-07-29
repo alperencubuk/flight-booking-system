@@ -1,0 +1,12 @@
+# Editors
+.idea/
+.vscode/
+
+# Mac/OSX
+.DS_Store
+
+# Maven
+target/
+
+# Database
+data/
